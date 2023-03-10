@@ -6,9 +6,9 @@
   <body>
     <h1 align="center">👋 Hello, I'm Seçkin Ersin Özkan!</h1>
     <ul align="center">
-      <li>📚 I'm a student at Ecole 42 and also working as a mathematics teacher.</li>
-      <li>💻 I've been interested in programming for a long time and I really enjoy it. I know C, Python, Dart and Flutter programming languages.</li>
-      <li>📧 You can reach me at ozkan003@gmail.com if you have any questions.</li>
+      <p>📚 I'm a student at Ecole 42 and also working as a mathematics teacher.</p>
+      <p>💻 I've been interested in programming for a long time and I really enjoy it. I know Python, Dart, Flutter and C programming languages.</p>
+      <p>📧 You can reach me at ozkan003@gmail.com if you have any questions.</p>
     </ul>
     <table align="center">
   <thead>
