@@ -1,4 +1,16 @@
-<table>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>👋 Hello, I'm Seçkin Ersin Özkan!</h1>
+    <ul>
+      <li>📚 I'm a student at Ecole 42 and also working as a mathematics teacher.</li>
+      <li>💻 I've been interested in programming for a long time and I really enjoy it. I know C, Python, Dart and Flutter programming languages.</li>
+      <li>📧 You can reach me at ozkan003@gmail.com if you have any questions.</li>
+    </ul>
+    <table>
   <thead>
        <tr>
       <td colspan="8" style="text-align:center;">
@@ -51,3 +63,8 @@
     </tr>
   </tbody>
 </table>
+  </body>
+</html>
+
+
+
