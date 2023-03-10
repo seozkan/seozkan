@@ -13,7 +13,7 @@
     <table>
   <thead>
        <tr>
-      <td colspan="8" style="text-align:center;">
+      <td colspan="8" align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/clf2uadqu00060fmq2i6ekgo4/stats?cursusId=21&coalitionId=232" alt="seozkan's 42 stats" />
   </a>
@@ -61,10 +61,23 @@
       <td>so_long</td>
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clf2uadqu00060fmq2i6ekgo4/project/3019996" alt="seozkan's 42 so_long Score" /></a></td>
     </tr>
+    <tr>
+    <td colspan="6" align="center">
+      <p>Languages I know.</p>
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,dart,flutter,c" />
+  </a> 
+     </td>
+    </tr>
+        <tr>
+    <td colspan="6" align="center">
+      <p>My other skils</p>
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,django,flask,docker,firebase,ai,linux,sqlite" />
+  </a> 
+     </td>
+    </tr>
   </tbody>
 </table>
   </body>
 </html>
-
-
-
