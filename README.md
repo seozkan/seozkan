@@ -64,7 +64,7 @@
             <tr>
                <td colspan="6" align="center">
                   <p>Languages I know.</p>
-                  <a href="https://skillicons.dev">
+                  <a href="https://github.com/seozkan/seozkan">
                   <img src="https://skillicons.dev/icons?i=py,dart,flutter,c" />
                   </a> 
                </td>
@@ -72,7 +72,7 @@
             <tr>
                <td colspan="6" align="center">
                   <p>My other skils</p>
-                  <a href="https://skillicons.dev">
+                  <a href="https://github.com/seozkan/seozkan">
                   <img src="https://skillicons.dev/icons?i=bootstrap,css,html,django,flask,docker,firebase,ai,linux,sqlite" />
                   </a> 
                </td>
