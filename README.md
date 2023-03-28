@@ -46,7 +46,7 @@
                <td><a href="https://github.com/seozkan/push_swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swap-bonus.png?raw=true" alt="seozkan's 42 push_swap Score" /></a>%123</td>
             </tr>
             <tr>
-               <td>4</td>
+               <td>3</td>
                <td><a href="https://github.com/seozkan/seozkan">born2beRoot</a></td>
                <td><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png?raw=true" alt="seozkan's 42 born2beRoot Score" />%125</td>
                <td>7</td>
@@ -54,7 +54,7 @@
                <td><a href="https://github.com/seozkan/so_long"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png?raw=true" alt="seozkan's 42 so_long Score" /></a>%125</td>
             </tr>
             <tr>
-               <td>3</td>
+               <td>4</td>
                <td><a href="https://github.com/seozkan/ft_printf">ft_printf</a></td>
                <td><a href="https://github.com/seozkan/ft_printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png?raw=true" alt="seozkan's 42 ft_printf Score" /></a>%100</td>
                <td>8</td>
