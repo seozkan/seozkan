@@ -58,8 +58,8 @@
                <td><a href="https://github.com/seozkan/ft_printf">ft_printf</a></td>
                <td><a href="https://github.com/seozkan/ft_printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png?raw=true" alt="seozkan's 42 ft_printf Score" /></a>%100</td>
                <td>8</td>
-               <td>Exam Rank 02</td>
-               <td>%100</td>
+               <td><a href="https://github.com/seozkan/philosophers">philosophers</a></td>
+               <td><a href="https://github.com/seozkan/philosophers"><img src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophers-bonus.png" alt="seozkan's 42 Philosophers Score" /></a>%125</td>
             </tr>
             <tr>
                <td colspan="6" align="center">
