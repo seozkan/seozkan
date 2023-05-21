@@ -37,16 +37,16 @@
           </td>
           <td>
             <a href="https://github.com/seozkan/libft">
-              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/libft-bonus.png" alt="seozkan's 42 Libft Score" />
+              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" alt="seozkan's 42 Libft Score" />
             </a>%125
           </td>
-          <td>5</td>
+          <td>6</td>
           <td>
             <a href="https://github.com/seozkan/minitalk">minitalk</a>
           </td>
           <td>
             <a href="https://github.com/seozkan/minitalk">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalk-bonus.png?raw=true" alt="seozkan's 42 minitalk Score" />
+              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png" alt="seozkan's 42 minitalk Score" />
             </a>%125
           </td>
         </tr>
@@ -57,16 +57,16 @@
           </td>
           <td>
             <a href="https://github.com/seozkan/get_next_line">
-              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line-bonus.png" alt="seozkan's 42 get_next_line Score" />
+              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_linem.png" alt="seozkan's 42 get_next_line Score" />
             </a>%125
           </td>
-          <td>6</td>
+          <td>7</td>
           <td>
             <a href="https://github.com/seozkan/push_swap">push_swap</a>
           </td>
           <td>
             <a href="https://github.com/seozkan/push_swap">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swap-bonus.png?raw=true" alt="seozkan's 42 push_swap Score" />
+              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png" alt="seozkan's 42 push_swap Score" />
             </a>%123
           </td>
         </tr>
@@ -76,15 +76,15 @@
             <a href="https://github.com/seozkan/seozkan">born2beRoot</a>
           </td>
           <td>
-            <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png?raw=true" alt="seozkan's 42 born2beRoot Score" />%125
+            <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png" alt="seozkan's 42 born2beRoot Score" />%125
           </td>
-          <td>7</td>
+          <td>8</td>
           <td>
             <a href="https://github.com/seozkan/so_long">so_long</a>
           </td>
           <td>
             <a href="https://github.com/seozkan/so_long">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png?raw=true" alt="seozkan's 42 so_long Score" />
+              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png" alt="seozkan's 42 so_long Score" />
             </a>%125
           </td>
         </tr>
@@ -95,16 +95,27 @@
           </td>
           <td>
             <a href="https://github.com/seozkan/ft_printf">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf-bonus.png?raw=true" alt="seozkan's 42 ft_printf Score" />
+              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png" alt="seozkan's 42 ft_printf Score" />
             </a>%100
           </td>
-          <td>8</td>
+          <td>9</td>
           <td>
             <a href="https://github.com/seozkan/philosophers">philosophers</a>
           </td>
           <td>
             <a href="https://github.com/seozkan/philosophers">
-              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophers-bonus.png" alt="seozkan's 42 Philosophers Score" />
+              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png" alt="seozkan's 42 Philosophers Score" />
+            </a>%125
+          </td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>
+            <a href="https://github.com/seozkan/minishell">minishell</a>
+          </td>
+          <td>
+            <a href="https://github.com/seozkan/minishell">
+              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishellm.png" alt="seozkan's 42 minishell Score" />
             </a>%125
           </td>
         </tr>
