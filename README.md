@@ -123,7 +123,7 @@
           <td colspan="6" align="center">
             <p>Languages I know.</p>
             <a href="https://github.com/seozkan/seozkan">
-              <img src="https://skillicons.dev/icons?i=py,dart,flutter,c" />
+              <img src="https://skillicons.dev/icons?i=py,dart,flutter,c,c++" />
             </a>
           </td>
         </tr>
