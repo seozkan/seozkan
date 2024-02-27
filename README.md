@@ -14,13 +14,6 @@
     <table align="center">
       <thead>
         <tr>
-          <td colspan="8" align="center">
-            <a href="https://github.com/JaeSeoKim/badge42">
-              <img src="https://badge42.vercel.app/api/v2/clf2uadqu00060fmq2i6ekgo4/stats?cursusId=21&coalitionId=232" alt="seozkan's 42 stats" />
-            </a>
-          </td>
-        </tr>
-        <tr>
           <th>#</th>
           <th>Project</th>
           <th>Score</th>
