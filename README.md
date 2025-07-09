@@ -1,134 +1,57 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-  </head>
-  <body>
-    <h1 align="center">👋 Hello, I'm Seçkin Ersin Özkan!</h1>
-    <ul align="center">
-      <p>👨 I am a software engineering student at 42 Kocaeli Schools. I have a strong background in mathematics education, having worked as a mathematics teacher at the Ministry of National Education for 8 years. In 2020, I started to learn coding and have since become proficient in programming languages such as C, C++, Python, JavaScript, Dart, and Flutter. I am also skilled in HTML and CSS.</p>
-      <p>💻 I am passionate about using technology to solve problems and create meaningful solutions. My experience as a teacher has taught me how to approach complex problems with a systematic and logical mindset, which I apply to my programming projects. I enjoy collaborating with others and contributing to open-source projects on GitHub.</p>
-      <p>🚀 In my free time, I like to participate in coding challenges, attend hackathons, and teach coding to children in my community. I believe that learning to code can be a transformative experience, and I enjoy sharing my knowledge and experience with others.</p>
-      <p>👨‍💻 Overall, I am a dedicated and hardworking individual who is eager to continue learning and growing as a software engineer. I am excited to pursue a career in this field and contribute to innovative and impactful projects.</p>
-    </ul>
-    <table align="center">
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>Project</th>
-          <th>Score</th>
-          <th>#</th>
-          <th>Project</th>
-          <th>Score</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>1</td>
-          <td>
-            <a href="https://github.com/seozkan/libft">libft</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/libft">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" alt="seozkan's 42 Libft Score" />
-            </a>%125
-          </td>
-          <td>6</td>
-          <td>
-            <a href="https://github.com/seozkan/minitalk">minitalk</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/minitalk">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png" alt="seozkan's 42 minitalk Score" />
-            </a>%125
-          </td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>
-            <a href="https://github.com/seozkan/get_next_line">get_next_line</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/get_next_line">
-              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_linem.png" alt="seozkan's 42 get_next_line Score" />
-            </a>%125
-          </td>
-          <td>7</td>
-          <td>
-            <a href="https://github.com/seozkan/push_swap">push_swap</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/push_swap">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png" alt="seozkan's 42 push_swap Score" />
-            </a>%123
-          </td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td>
-            <a href="https://github.com/seozkan/seozkan">born2beRoot</a>
-          </td>
-          <td>
-            <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png" alt="seozkan's 42 born2beRoot Score" />%125
-          </td>
-          <td>8</td>
-          <td>
-            <a href="https://github.com/seozkan/so_long">so_long</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/so_long">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png" alt="seozkan's 42 so_long Score" />
-            </a>%125
-          </td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td>
-            <a href="https://github.com/seozkan/ft_printf">ft_printf</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/ft_printf">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfm.png" alt="seozkan's 42 ft_printf Score" />
-            </a>%100
-          </td>
-          <td>9</td>
-          <td>
-            <a href="https://github.com/seozkan/philosophers">philosophers</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/philosophers">
-              <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png" alt="seozkan's 42 Philosophers Score" />
-            </a>%125
-          </td>
-        </tr>
-        <tr>
-          <td>5</td>
-          <td>
-            <a href="https://github.com/seozkan/minishell">minishell</a>
-          </td>
-          <td>
-            <a href="https://github.com/seozkan/minishell">
-              <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishellm.png" alt="seozkan's 42 minishell Score" />
-            </a>%125
-          </td>
-        </tr>
-        <tr>
-          <td colspan="6" align="center">
-            <p>Languages I know.</p>
-            <a href="https://github.com/seozkan/seozkan">
-              <img src="https://skillicons.dev/icons?i=py,dart,flutter,c,cpp" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="6" align="center">
-            <p>My other skils</p>
-            <a href="https://github.com/seozkan/seozkan">
-              <img src="https://skillicons.dev/icons?i=bootstrap,css,html,django,flask,docker,firebase,ai,linux,sqlite" />
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </body>
-</html>
+### 🎓 My 42 Kocaeli Journey
+---
+
+#### 📚 Core Curriculum Projects
+
+**🏆 Ring 01-02: The Foundations & Algorithms**
+
+| Project                                           | Score                                                                                                                              | Project                                           | Score                                                                                                                                |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **[libft](https://github.com/seozkan/libft)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/libftm.png)](https://github.com/seozkan/libft) `%125` | **[push_swap](https://github.com/seozkan/push_swap)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/push_swapm.png)](https://github.com/seozkan/push_swap) `%123` |
+| **[get_next_line](https://github.com/seozkan/get_next_line)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_linem.png)](https://github.com/seozkan/get_next_line) `%125` | **[so_long](https://github.com/seozkan/so_long)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/so_longm.png)](https://github.com/seozkan/so_long) `%125` |
+| **[ft_printf](https://github.com/seozkan/ft_printf)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/ft_printfm.png)](https://github.com/seozkan/ft_printf) `%100` | **[FDF](https://github.com/seozkan/FDF)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/fdfm.png)](https://github.com/seozkan/FDF) `%125` |
+| **[born2beroot](https://github.com/seozkan/born2beroot)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png)](https://github.com/seozkan/born2beroot) `%125` | **[fract-ol](https://github.com/seozkan/fract-ol)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/fract-olm.png)](https://github.com/seozkan/fract-ol) `%125` |
+| **[minitalk](https://github.com/seozkan/minitalk)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/minitalkm.png)](https://github.com/seozkan/minitalk) `%125` | **[philosophers](https://github.com/seozkan/philosophers)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/philosophersm.png)](https://github.com/seozkan/philosophers) `%125` |
+
+**🌐 Ring 03-05: Advanced Topics & Specialization**
+
+| Project                                                       | Score                                                                                                                                    |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **[minishell](https://github.com/seozkan/minishell)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/minishellm.png)](https://github.com/seozkan/minishell) `%125` |
+| **[Inception](https://github.com/seozkan/inception)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/inceptionm.png)](https://github.com/seozkan/inception) `%125` |
+| **[webserv](https://github.com/seozkan/webserv)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/webservm.png)](https://github.com/seozkan/webserv) `%125` |
+| **[ft_irc](https://github.com/seozkan/ft_irc)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/ft_ircm.png)](https://github.com/seozkan/ft_irc) `%125` |
+| **[ft_transcendence](https://github.com/seozkan/ft_transcendence)** | [![...](https://github.com/byaliego/42-project-badges/raw/main/badges/ft_transcendencem.png)](https://github.com/seozkan/ft_transcendence) `%125` |
+
+---
+
+#### 💻 C++ Piscine: Object-Oriented Programming
+<p align="center">
+  All C++ modules were completed with a score of <strong>100%</strong>.
+  <br/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 00" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 01" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 02" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 03" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 04" width="95"/>
+  <br/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 05" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 06" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 07" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 08" width="95"/>
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/cppm.png" alt="CPP 09" width="95"/>
+</p>
+
+---
+
+#### ✍️ Final Exams
+
+| Exam         | Final Score |
+|--------------|-------------|
+| Exam Rank 00 | `100`       |
+| Exam Rank 01 | `100`       |
+| Exam Rank 02 | `100`       |
+| Exam Rank 03 | `100`       |
+| Exam Rank 04 | `100`       |
+| Exam Rank 05 | `100`       |
+| Exam Rank 06 | `100`       |
